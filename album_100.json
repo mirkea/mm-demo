@@ -1,0 +1,23 @@
+{
+	"id": 100,
+	"name": "Favorites",
+	"desc": "Walter's favorites music",
+	"pictures": [
+		{
+			"thumb": "walter/favorites/small/pic_1.jpg",
+			"large": "walter/favorites/large/pic_1.jpg"
+		},
+		{
+			"thumb": "walter/favorites/small/pic_5.jpg",
+			"large": "walter/favorites/large/pic_5.jpg"
+		},
+		{
+			"thumb": "walter/favorites/small/pic_12.jpg",
+			"large": "walter/favorites/large/pic_12.jpg"
+		},
+		{
+			"thumb": "walter/favorites/small/pic_13.jpg",
+			"large": "walter/favorites/large/pic_13.jpg"
+		}
+	]
+}

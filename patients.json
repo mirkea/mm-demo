@@ -1,0 +1,23 @@
+[
+	{
+		"id": 0,
+		"name": "Walter Torbjorn",
+		"age": 80,
+		"picture": "erik/avatar.jpg",
+		"birthdate": "03/03/1937"
+	},
+	{
+		"id": 1,
+		"name": "Walterina Torbjorina",
+		"age": 83,
+		"picture": "andreea/avatar.jpg",
+		"birthdate": "03/03/1937"
+	},
+	{
+		"id": 2,
+		"name": "Michael Aleksen",
+		"age": 72,
+		"picture": "michael/avatar.jpg",
+		"birthdate": "03/03/1937"
+	}
+]

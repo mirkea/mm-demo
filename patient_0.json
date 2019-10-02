@@ -1,0 +1,90 @@
+{
+	"id": 0,
+	"givenName": "Walter",
+	"familyName": "Torbjorn",
+	"desc": "My grandfather is missing an ear. Melanoma was eating away the left one, so it had to be removed. He’s hobbled by bad legs, particularly the right one, banged-up since college—two members of a forgotten Big Ten special teams unit both decided to tackle his kneecap at the same time.\n\nHis feet swell at night for unknown reasons, but soaking them in ice water helps. Walking is difficult; he relies on a cane, or two hands along the wall.  ",
+	"age": 80,
+	"picture": "walter/profile/small/pic_20.jpg",
+	"birthdate": "03/03/1937",
+	"birthplace": "Olbu",
+	"about": "Lorem ipsum dolor molestie in volutpat eget, finibus vitae leo. Quisque ac ante nec odio bibendum euismod at quis leo. Duis blandit velit eget lobortis rhoncus. Mauris viverra ac lacus quis sagittis. ",
+	"interests": "Quisque ac ante nec odio bibendum euismod",
+	"albumFavorites": [
+		{ "thumb": "walter/favorites/small/pic_1.jpg"},
+		{ "thumb": "walter/favorites/small/pic_5.jpg"},
+		{ "thumb": "walter/favorites/small/pic_12.jpg"},
+		{ "thumb": "walter/favorites/small/pic_13.jpg"}
+	],
+	"albums": [
+			{
+				"id": 100,
+				"name": "Favorites",
+				"count": 4,
+				"thumb": "pics/favorites.jpg"
+			},
+			{
+				"id": 101,
+				"name": "Profile pictures",
+				"count": 3,
+				"thumb": "pics/profile.jpg"
+			},
+			{
+				"id": 102,
+				"name": "The family",
+				"count": 20,
+				"thumb": "walter/family/small/pic_1.jpg"
+			},
+			{
+				"id": 103,
+				"name": "Grandkids",
+				"count": 12,
+				"thumb": "walter/grandkids/small/pic_1.jpg"
+			},
+			{
+				"id": 104,
+				"name": "Janice",
+				"count": 4,
+				"thumb": "walter/janice/small/pic_1.jpg"
+			},
+			{
+				"id": 105,
+				"name": "Grandkids",
+				"count": 12,
+				"thumb": "walter/grandkids/small/pic_1.jpg"
+			},
+			{
+				"id": 106,
+				"name": "Pets",
+				"count": 12,
+				"thumb": "walter/pets/small/pic_1.jpg"
+			}
+	],
+	"relatives": [
+		{
+			"id": 100,
+			"name": "Daniela Torbjorn",
+			"relation": "Daughter",
+			"picture": "erik/daniela.jpg"
+		},
+		{
+			"id": 101,
+			"name": "Scott Torbjorn",
+			"relation": "Nephew",
+			"picture": "erik/scott.jpg"
+		},
+		{
+			"id": 102,
+			"name": "Jamie Torbjorn",
+			"relation": "Son",
+			"picture": "erik/jamie.jpg",
+			"birthdate": "03/03/1977"
+		},
+		{
+			"id": 103,
+			"name": "Aleksander Torbjorn",
+			"relation": "Son",
+			"picture": "erik/aleksander.jpg",
+			"birthdate": "03/03/1977"
+		}
+	]
+}
